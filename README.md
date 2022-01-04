@@ -1,1 +1,1 @@
-# Netflix-titles-Analyst
+# Netflix-titles-EDA
